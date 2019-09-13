@@ -1,5 +1,5 @@
 <html>
 <head>
-
-</html>
+<title> PRATIKUM </title>
 </head>
+</html>
